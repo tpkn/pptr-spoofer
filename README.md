@@ -2,7 +2,7 @@
 Replace page requests in Puppeteer
 
 
-Let's say you are testing some page using. And it that page loads tons of heavy libs from slow remote server each time. Tedious process, huh? With this module you can response with content of that libraries, loaded from your local drive. 
+Let's say you are testing some page. And that page loads tons of heavy libs from slow remote server each time. Tedious process, huh? With this module you can response with content of that libraries, loaded from your local drive. 
 
 In case you have the CORS error, disable web security (at your own risk):
 ```javascript
