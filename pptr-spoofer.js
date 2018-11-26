@@ -4,7 +4,7 @@
 
 function pptrSpoofer(req, spoofs_list){
    if(typeof req !== 'object'){
-      return;
+      throw new TypeError('Request should be an object');
    }
 
    if(!Array.isArray(spoofs_list)){
