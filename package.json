@@ -1,0 +1,26 @@
+{
+   "name": "pptr-spoofer",
+   "main": "pptr-spoofer.js",
+   "version": "1.0.0",
+   "author": {
+      "url": "https://github.com/tpkn/"
+   },
+   "repository": "https://github.com/tpkn/pptr-spoofer",
+   "license": "MIT",
+   "keywords": [
+      "page",
+      "web",
+      "check",
+      "errors",
+      "puppeteer",
+      "phantom",
+      "find",
+      "spoof",
+      "spoofer",
+      "request",
+      "phantom",
+      "console",
+      "external",
+      "files"
+   ]
+}
