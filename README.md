@@ -1,4 +1,4 @@
-# Puppeteer Spoofer
+# Puppeteer Spoofer [![npm Package](https://img.shields.io/npm/v/pptr-spoofer.svg)](https://www.npmjs.org/package/pptr-spoofer)
 Replace page requests in Puppeteer
 
 
